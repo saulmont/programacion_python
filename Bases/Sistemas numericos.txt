@@ -1,0 +1,58 @@
+## BIT ##
+
+1 = 5v
+0 = 0v
+
+1bit = (0|1)
+
+1Byte = 8bits
+
+## SISTEMAS NUMERICOS ##
+
+1 0 = Binario
+
+0 1 2 3 4 5 6 7 = Octal
+
+0 1 2 3 4 5 6 7 8 9 = Decimal
+
+0 1 2 3 4 5 6 7 8 9 A B C D E F = Hexadecimal
+
+## CONVERSIONES ##
+
+-- Decimal a Binario --
+
+n = 99
+
+99 / 2 = 45 + 4.5 = 49.5	=> 0.5	> 1
+49 / 2 = 20 + 4.5 = 24.5	=> 0.5	> 1
+24 / 2 = 12			=> 0	> 0
+12 / 2 = 6			=> 0	> 0
+6 / 2 = 3			=> 0	> 0
+3 / 2 = 1.5			=> 0.5	> 1
+1 / 2 = 0.5			=> 0.5	> 1
+
+-- Binario a Decimal --
+
+n = 1100011
+
+0^n = 0 -> Cero elevado a cualquier potencia es CERO.
+n^0 = 1 -> Cualquier número elevado a la potencia cero es UNO.
+n^1 = n -> Cualquier número elevado a la potencia uno es igual a SI MISMO.
+
+2^0 = 1
+2^1 = 2 * 1 = 2
+2^2 = 2 * 2 = 4
+2^3 = 2 * 2 * 2 = 8
+2^4 = 2 * 2 * 2 * 2 = 16
+2^5 = 2 * 2 * 2 * 2 * 2 = 32
+2^6 = 2 * 2 * 2 * 2 * 2 * 2 = 64
+2^7 = 2 * 2 * 2 * 2 * 2 * 2 * 2 = 128
+
+| 2^6 | 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
+|  1  |  1  |  0  |  0  |  0  |  1  |  1  |
+|1*2^6|1*2^5|0*2^4|0*2^3|0*2^2|1*2^1|1*2^0|
+|  64 |  32 |  0  |  0  |  0  |  2  |  1  | => 99
+
+
+
+

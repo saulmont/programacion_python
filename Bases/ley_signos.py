@@ -18,7 +18,7 @@ res = a * b
 
 print("2) {a} * {b} = {res}".format(a = a, b = b, res = res))
 
-# 3. Mas por mmenos es igual a menos
+# 3. Mas por menos es igual a menos
 
 a = +1
 b = -1

@@ -1,5 +1,11 @@
 # ARREGLOS/VECTORES/LISTAS
 
+""" 
+Las listas pueden recibir cualquier tipo de dato(caracteres, cadenas de texto, numeros enteros y decimales, boleanos).
+Las listas pueden ser facilmente modificadas.
+Para crear una lista se utilizan los corchetes [].
+"""
+
 lista = ['a', 'b', 'c', "Hola", "Mundo", 1, 2, 3, 4.4, 5.5, True]
 
 # Agregar nuevo elemento al final de la lista

@@ -8,6 +8,11 @@ Para crear una lista se utilizan los corchetes [].
 
 lista = ['a', 'b', 'c', "Hola", "Mundo", 1, 2, 3, 4.4, 5.5, True]
 
+# Mostrar la cantidad de elementos que posee una lista.
+elementos = len(lista)
+
+print(elementos)
+
 # Agregar nuevo elemento al final de la lista
 lista.append(False)
 print(lista)

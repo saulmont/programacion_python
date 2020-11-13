@@ -2,9 +2,9 @@
 
 ## 1. Bases
 
-- [ ] Variables.
+- [X] Variables.
 - [ ] Listas.
-- [ ] Tuplas.
+- [X] Tuplas.
 - [ ] Diccionarios.
 - [ ] Flujo de control.
 - [ ] Bucles.

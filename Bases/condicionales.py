@@ -1,7 +1,7 @@
 # CONDICIONALES
 
 """
-Sirven para realizar comparaciones entre variables, y comprobar que una condiciones se cumpla, 
+Sirven para realizar comparaciones entre variables, y comprobar que una condicion se cumpla, 
 es decir, si esta es verdadera o falsa.
 
 Existen tres sentencias para realizar una comparacion:

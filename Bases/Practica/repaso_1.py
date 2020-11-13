@@ -10,3 +10,5 @@ perimetro = 4 * lado
 
 print("el area del cuadrado es:", area)
 print("el perimetro del cuadrado es:", perimetro) 
+
+

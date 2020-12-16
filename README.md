@@ -1,5 +1,7 @@
 # Aprendiendo programación con Python
 
+**Autor**: Saúl Montalvo
+
 ## 1. Bases
 
 - [X] Variables.

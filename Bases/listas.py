@@ -49,7 +49,6 @@ lista_numeros.sort(reverse=True)
 print(lista_numeros)
 
 # Unir dos listas
-
 nueva_lista = [10, 11, 12, 13, 14]
 
 # Uniendo las listas

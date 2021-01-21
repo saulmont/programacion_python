@@ -16,7 +16,7 @@ a = 0
 b = 1
 
 c = 0
-d = 5
+d = int(input("Ingresa el numero de digitos que deseas generar: "))
 
 while c < d:
     e = a + b

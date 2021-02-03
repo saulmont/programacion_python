@@ -2,7 +2,7 @@ lista = []
 cantidad = int(input("Ingresa el numero de elementos que va a tener la lista: "))
 
 for i in range(0, cantidad):
-    elementos = int(input("Ingrese el numero de elementos que va a tener la lista: "))
+    elementos = int(input("Ingrese un numero: "))
     lista.append(elementos)
 
 tam = len(lista)
